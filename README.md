@@ -13,7 +13,7 @@
 ## Webfly
 ### Разработка
 
-* #### Баранкин - магазин, верстка по макету - https://dev.barankinvrn.ru/ || http://v.webfly.pro/
+* #### Баранкин - магазин, верстка по макету - https://barankinvrn.ru/
 
 * ####	Ecocups - магазин, верстка по макету - https://ecocups.pro/
 
